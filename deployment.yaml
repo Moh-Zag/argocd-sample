@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: mohzag/jenkins-flask-app:35
+        image: mohzag/jenkins-flask-app:34
         # resources:
         #   limits:
         #     memory: "128Mi"
